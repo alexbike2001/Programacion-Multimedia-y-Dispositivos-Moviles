@@ -1,2 +1,3 @@
-# PROGRAMACION-MULTIMEDIA-Y-DISPOSITIVOS-MOVILES
-Ejercicios de PROGRAMACION MULTIMEDIA Y DISPOSITIVOS MOVILES
+# Programacion-Multimedia-y-Dispositivos-Moviles
+Ejercicios de Programacion-Multimedia-y-Dispositivos-Moviles
+
